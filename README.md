@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **SQL, Python, PowerBI & Excel**
 
-- 🌱 I’m currently learning **Python, SQL, Data Engineering**
+- 🌱 I’m currently learning **Python, SQL, PowerBI, Data science**
 
 - 👯 I’m looking to collaborate on **Data Analysis and machine learning projects**
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1_UER42Hq4ZjMfS8wkhXMeXxkvx9kyWt3/view?usp=drive_link](https://drive.google.com/file/d/1_UER42Hq4ZjMfS8wkhXMeXxkvx9kyWt3/view?usp=drive_link)
 
-- ⚡ Fun fact **I love cooking, music and meeting new friends.**
+- ⚡ Fun fact **I love cooking, music and sewing.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
